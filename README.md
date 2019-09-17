@@ -3,7 +3,7 @@
 ### This is a react file uploader 
 To run this project locally:  
 1. cd into server and do a yarn install 
-  run `npm run start' 
+  run `npm run start` 
 2. cd into app and do a yarn install 
  run `yarn start` 
 
