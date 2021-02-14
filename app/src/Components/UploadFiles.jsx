@@ -1,6 +1,6 @@
 import React from 'react';
 import { Progress } from 'reactstrap';
-const UPLOAD_BUCKET = 'https://skylight-react-interview-project.s3.amazonaws.com';
+const UPLOAD_BUCKET = 'https://noop-bucket.s3.amazonaws.com';
 
 class UploadFiles extends React.Component {
 	state = {
